@@ -1,2 +1,2 @@
-# masta
-Primer repositorio
+# Ricolino
+primera clase git y github.
